@@ -8,3 +8,4 @@ Creating a new branch is very quick and simple.
 Check no-ff merge.
 Check git log with no-ff merge.
 Git check debug.
+Change from GitHub.
