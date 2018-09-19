@@ -9,4 +9,4 @@ Check no-ff merge.
 Check git log with no-ff merge.
 Git check debug.
 This is a dev .
-Change from 10.110.20.109
+Change from 10.110.20.109 and github.
